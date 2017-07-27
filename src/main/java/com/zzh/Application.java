@@ -10,3 +10,6 @@ public class Application {
         SpringApplication.run(Application.class, args);
     }
 }
+
+// mvn clean package
+// D:\workspace\springBatch\target
